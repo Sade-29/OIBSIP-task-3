@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+<style>
+body{
+  font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.
+
+
+.container {
+    max-width: 100px;
+    margin: 0 auto;
+    padding: 20px;
+    height:auto;
+     border-radius:10px;
+    text-align:center; 
+}
+
+header {
+    background-color: rgb(0, 100, 134);
+     color:red;
+    text-align: center;
+    padding: 50px 0;
+}
+
+header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 10px 0;
+    color:red;
+}
+
+header p {
+    font-size: 18px;
+    color: red;
+}
+
+section {
+    padding: 40px 0;
+    color:rgb(0, 0, 0);
+}
+
+h2 {
+    font-size: 24px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #ffff;
+    text-align: center;
+    padding: 20px 0;
+}
+</style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+           
+<img src="profile-picture.jpg"  documents alt="my profile picture" class="profile-picture">
+
+           
+            <h1>Sade Jyothsna Divya Tejaswi</h1>
+            <p>Web Developer</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2><ins>About Me</ins></h2>
+            <p>Iam a passionate aspiring web developer eager to make an impact in the digital world. Currently, I'm embarking on my first internship journey in web development, where I'm diving headfirst into the exciting world of coding, design, and problem-solving.<br>During my internship, I've been immersing myself in various aspects of web development, from frontend technologies like HTML, CSS, and JavaScript, to backend frameworks like Node.js. Each day presents new challenges, but I thrive on the opportunity to expand my skills and knowledge base.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2><ins>Skills</ins></h2>
+            <ol>
+                <li>HTML5</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>java</li>
+                <li>Data structure and algorithm</li>
+                <li>python</li>
+                <li>Data base management system</li>
+                 <li>opearting system</li>
+            </ol>
+        </div>
+    </section>
+
+   
+        <div class="container">
+          <section> 
+<h2><ins>Education</ins></h2>
+<ol>
+<li>Bachelor of technology(B.tech)in information technology in Anil Nerukonda Institute of Technology and sciences</li>
+<li>Excepted graduation:2026</li>
+</ol>
+<h2><ins>Professional Experience<ins></h2>
+<h3>Web developer intern</h3>
+<p>participated in team meetings,brainstroming sessions,and code review to contribute ideas and collabrate with team members</p>
+<h2><ins>Abilities<ins></h2>
+<ol>
+<li>Proficient in java,python,HTML and  CSS</li>
+<li>Basic knowledge of SQL and database management system</li>
+<li>Excellent communication skills,both written and verbal</li>
+<li>strong teamwork and collabration abilities</li>
+<li>quick learner with a strong desire to expand knowledge and skills</li>
+</ol>
+<h2><ins>Certificate</ins></h2>
+<ol>
+<li>Successfully completed the competitive programming workshop march 2024,held by Google developer club</li>
+<li>Succesfully completed html,css course received the certificate held by bitlabs</li>
+</ol>
+
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 sade jyothsna</p>
+        </div>
+    </footer>
+</body>
+69905075
+</html>
